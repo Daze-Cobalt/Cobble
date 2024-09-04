@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stone", "Stone\Stone.vcxproj", "{A2B2CBF8-CF4E-42A0-B842-5922AEB8DB2B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cobble", "Cobble\Cobble.vcxproj", "{62798B75-3764-465B-A8B0-8339467C50B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B2CBF8-CF4E-42A0-B842-5922AEB8DB2B}.Debug|x64.ActiveCfg = Debug|x64
+		{A2B2CBF8-CF4E-42A0-B842-5922AEB8DB2B}.Debug|x64.Build.0 = Debug|x64
+		{A2B2CBF8-CF4E-42A0-B842-5922AEB8DB2B}.Release|x64.ActiveCfg = Release|x64
+		{A2B2CBF8-CF4E-42A0-B842-5922AEB8DB2B}.Release|x64.Build.0 = Release|x64
+		{62798B75-3764-465B-A8B0-8339467C50B2}.Debug|x64.ActiveCfg = Debug|x64
+		{62798B75-3764-465B-A8B0-8339467C50B2}.Debug|x64.Build.0 = Debug|x64
+		{62798B75-3764-465B-A8B0-8339467C50B2}.Release|x64.ActiveCfg = Release|x64
+		{62798B75-3764-465B-A8B0-8339467C50B2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {563513EC-B74E-40A4-8494-8226CCC552D2}
+	EndGlobalSection
+EndGlobal
